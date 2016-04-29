@@ -1,0 +1,16 @@
+SMAP
+navigation_jsp.java
+JSP
+*S JSP
+*F
++ 0 navigation.jsp
+shared/navigation.jsp
+*L
+1,36:54
+36:91,8
+37,7:99
+43,2:116
+44:119,8
+45,4:127
+48,59:141
+*E

@@ -1,0 +1,30 @@
+SMAP
+createWord_jsp.java
+JSP
+*S JSP
+*F
++ 0 createWord.jsp
+admin/createWord.jsp
++ 1 head.jsp
+shared/head.jsp
++ 2 navbar.jsp
+shared/navbar.jsp
++ 3 left.jsp
+shared/left.jsp
+*L
+8,2:64
+10:67,8
+11:75
+11:77,8
+12:85
+12:237,5
+12,2:88
+13:100
+14,15:111
+1#1,8:126
+28#0,6:134
+1#2,24:140
+33#0,6:164
+1#3,22:170
+38#0,28:192
+*E

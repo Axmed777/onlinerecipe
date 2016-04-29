@@ -1,0 +1,14 @@
+SMAP
+newindex_jsp.java
+JSP
+*S JSP
+*F
++ 0 newindex.jsp
+newindex.jsp
++ 1 header.jsp
+shared/header.jsp
+*L
+1,6:49
+1#1,77:55
+6#0,61:131
+*E
